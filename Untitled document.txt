@@ -1,0 +1,42 @@
+﻿Part one
+1.Darth Vader height: https://swapi.dev/api/people/4/
+
+
+2.Population of planet Alderan: https://swapi.dev/api/planets/2
+
+
+3.The name of the manufacturer of the Millennium Falcon: https://swapi.dev/api/starships/10
+
+
+4.The name of the species that C-3P0 belongs to: https://swapi.dev/api/people/2 https://sawpi.dev/api/species/2
+
+
+
+
+
+
+5.The title of each film that obi-wan kenobi was is: https://swapi.dev/api/people/10
+https://swapi.dev/api/fils/1/ 
+https://swapi.dev/api/fils/2/ 
+https://swapi.dev/api/fils/3/ 
+https://swapi.dev/api/fils/4/ 
+https://swapi.dev/api/fils/5/ 
+https://swapi.dev/api/fils/6/ 
+
+
+6.Millennium falcon: https://swapi.dev/api/starships/?search=millenium
+
+
+Part two
+
+
+1. Params and body, will accept text and bodys
+2. Returns an Array of all posts
+3. https://practiceapi.devmountain.com/api/posts?id=555
+4. 200 and 409
+5. https://practiceapi.devmountain.com/api/post   {"text": "Tate"}
+6. https://practiceapi.devmountain.com/api/posts?id=315 {‘text’: ‘Yellow’}
+7. https://practiceapi.devmountain.com/api/posts/filter?text=blue
+8. Char-set: UTF-8 content-type: application/JSON
+9. ‘Request was missing req.query.id or req.body.text’
+10. Returns all of information instead of what is specified
